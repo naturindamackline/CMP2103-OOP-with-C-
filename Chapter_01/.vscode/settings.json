@@ -1,0 +1,6 @@
+{
+  "cmake.configureSettings": {
+    "CMAKE_CXX_COMPILER": "/opt/homebrew/bin/g++-16"
+  },
+  "cmake.generator": "Ninja"
+}
